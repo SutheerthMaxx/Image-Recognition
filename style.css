@@ -1,0 +1,21 @@
+body
+{
+    background-color: peachpuff;
+    color: rgb(91, 235, 139);
+}
+.heading
+{
+    width: 80%;
+    font-size: 35px;
+}
+.hola , #name , #accuracy
+{
+    font-size: 15px;
+    color: blueviolet;
+}
+#camera , #result
+{
+    border: 4px dashed orange;
+    width: 350px;
+    height: 300px;
+}
